@@ -1,6 +1,6 @@
 <div align = "center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=435&lines=Greetings!;I+am+Tiago+Santos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&width=300&lines=Greetings!;I+am+Tiago+Santos)](https://git.io/typing-svg)
 ### MSc Student in Computer Science and Engineering | Instituto Superior Técnico & Universidade de Lisboa | Aspiring Machine Learning Engineer
 ### 🔬 Passionate about Artificial Intelligence, Machine Learning, and solving complex problems!
 ### 📫 How to reach me: tiago.m.r.santos@hotmail.com
